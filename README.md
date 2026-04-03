@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 export default function Page() {
 
   const whatsapp = "https://wa.me/525582606593?text=Gracias%20por%20comunicarse%20con%20FISIOLIFE%20MX.%20%C2%BFEn%20qu%C3%A9%20podemos%20ayudarle%3F";
-  const maps = "https://www.google.com/maps/search/?api=1&query=Villa+del+Real+Tecamac";
+  const maps = "https://maps.app.goo.gl/Lh52KCcnvzfzNNMC8";
 
   return (
     <div style={{fontFamily:'Segoe UI, sans-serif', margin:0, background:'#f1f5f9', color:'#0f172a'}}>
